@@ -1,0 +1,254 @@
+
+body{
+  background: 
+    Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    background-repeat: no-repeat;
+    margin:0;
+    padding:0;
+
+}
+
+a:hover{
+    color:red;
+}
+/* a{
+    color:white;
+} */
+/* ul,li,a{
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    padding-left:90px;
+    margin-left: 15px;
+    padding-top: -20px;
+    color: white!important;
+} */
+.img{                /*logoahmed1*/
+    height: 50px;
+    width: 50px;
+    margin-top: 50px;
+}
+
+.img1{           /*logoahmed2*/
+    height: 50px;
+    width: 50px;
+    margin-top:50px; 
+}
+
+ .img2{                    /*   logo ahmed3 */
+    height: 50px;
+    width: 50px;
+    margin-left: -90px;
+   margin-top: -90px;
+
+   
+}
+
+
+
+h1{
+    color:white;
+    font-size: 40px;
+
+}
+.contact{
+    background-image: url('https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    color: white;
+}
+.titre{
+    color: white;
+    font-size: 50px;
+}
+
+.inform{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+}
+.courses{
+    background-image: url('https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    color: white;
+}
+.titre2{
+    color: white;
+    font-size: 50px;
+
+}
+.ligne1,.ligne2,.ligne3{
+    display: flex;
+    justify-content: center;
+    padding-left: 10px;
+margin-left: 10px;
+
+}
+.box1{
+    margin: 20px;
+    
+}
+.box1:hover{
+    opacity: 0.7;
+}
+.box2{
+    margin: 20px;
+}
+.box2:hover{
+    opacity: 0.7;
+}
+.box3{
+    margin: 20px;
+}
+.box3:hover{
+    opacity: 0.7;
+}
+.box4{
+    margin: 20px;
+}
+.box4:hover{
+    opacity: 0.7;
+}
+.box5{
+    margin: 20px;
+}
+
+
+.box5:hover{
+    opacity: 0.7;
+}
+.box6{
+    margin: 20px;
+}
+.box6:hover{
+    opacity: 0.7;
+}
+.box7{
+    margin: 20px;
+}
+.box7:hover{
+    opacity: 0.7;
+}
+.box8{
+    margin: 20px;
+}
+.box8:hover{
+    opacity: 0.7;
+}
+.box9{
+    margin: 20px;
+}
+.box9:hover{
+    opacity: 0.7;
+}
+
+.feed{
+    font-size: 30px;
+    color: white;
+}
+.images{
+    width: 100%;
+}
+
+.imgg{
+    width:1350px;
+}
+.imgge{
+    width:1350px;
+height: 700px;
+}
+.aze{
+    width: 200px;
+    height: 31px;
+}
+.rty{
+    width: 200px;
+    height: 25px;
+}
+.uio{
+    width: 198px;
+    height: 25px;
+}
+.fgh{
+    width: 200px;
+    height: 25px;
+}
+textarea{
+    height: 200px;
+    max-height: 200px;
+overflow: scroll;
+width:300px;
+}
+
+.button{
+    border-radius: 20px;
+    height: 40px;
+    width: 80px;
+    background-color: aquamarine;
+
+}
+.button:hover{
+    opacity: 0.7;
+
+}
+#imgview{
+
+padding-left: 50px;
+}
+.box1 a{
+    position: relative;
+   left:-50px ;
+   top: -50%;
+
+}
+.nav-link{
+    color: white !important;
+    margin-left:40px;
+    font-size: 25px;
+}
+.nav-link:hover{
+    color: red !important;
+}
+.navbar-nav{
+    display: flex;
+    width: 100%;
+    
+    justify-content: center;
+}
+
+/* .centre{
+    padding-left: 150px;
+    padding-top: -100px;
+    margin-bottom: -10px;
+}
+.centre1{
+    
+    padding-bottom: 30px; 
+    padding-left: 150px;
+
+}
+.centre2{
+    padding-bottom: 50px; 
+    padding-left: 45px;
+} */
+
+  .container{
+      color: white;
+  }
